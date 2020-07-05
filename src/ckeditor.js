@@ -49,7 +49,6 @@ import TableCellProperties from '@ckeditor/ckeditor5-table/src/tablecellproperti
 import TableProperties from '@ckeditor/ckeditor5-table/src/tableproperties';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar.js';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation.js';
-import Title from '@ckeditor/ckeditor5-heading/src/title.js';
 import TodoList from '@ckeditor/ckeditor5-list/src/todolist';
 import Underline from '@ckeditor/ckeditor5-basic-styles/src/underline.js';
 
@@ -103,7 +102,6 @@ Editor.builtinPlugins = [
 	TableProperties,
 	TableToolbar,
 	TextTransformation,
-	Title,
 	TodoList,
 	Underline
 ];
